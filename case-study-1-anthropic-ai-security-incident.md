@@ -1,4 +1,4 @@
-# Case Study 1 – Anthropic AI Security Incident (2026)
+# 01 – Anthropic AI Security Incident (2026)
 
 **Independent Governance & Security Analysis**
 
